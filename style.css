@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  }
+
+.item {
+  background: white;
+  height: 190px;
+  width: 190px;
+  margin: 5px;
+  }
+
+
+// .empty {
+//   height: 190px;
+//   width: 190px;
+//   margin: 5px;
+  // display: none;
+  }
+// .tall{
+//   height: 490px;
+}
